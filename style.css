@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 121, 121);
+}
+.box-inside{
+    background-color: rgb(252, 252, 252);
+    padding: 40px 10px;
+    margin: 20px 10px;
+}
+
+span{
+font-size: 15px;
+}
+.box{
+ background-color: aqua;
+    padding: 60px;
+}
+.content{
+    margin: 20px 0px;
+}
